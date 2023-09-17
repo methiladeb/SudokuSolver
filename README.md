@@ -1,2 +1,4 @@
 # SudokuSolver
-# The objective of the game is to fill up the 9x9 grid with digits, such that each digit is unique in its row and column and 3x3 sub-grid. The puzzle contains some initial digits and the player must fill up the grid. 
+
+
+#  This is a C++ program designed to solve Sudoku puzzles. It provides functionalities to initialize Sudoku boards, check if a puzzle is solvable, and display the solved or unsolved Sudoku puzzle. Sudoku is a logic-based number-placement puzzle where the objective is to fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 subgrids that compose the grid contain all of the digits from 1 to 9.
